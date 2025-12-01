@@ -1,0 +1,26 @@
+{
+  "users": [],
+  "vendors": [],
+  "complaints": [
+    {
+      "id": "1763314207067",
+      "title": "Blocked drain in bathroom",
+      "description": "Bathroom drain is blocked and water is slowly draining",
+      "category": "Plumbing",
+      "block": "A",
+      "apartment": "102",
+      "urgency": "Medium",
+      "images": [],
+      "status": "open",
+      "createdAt": "2025-11-16T17:30:07.068Z",
+      "residentEmail": "abcd@gmail.com",
+      "residentName": "shahid",
+      "assignedVendorId": null,
+      "assignedAt": null,
+      "eta": null,
+      "vendorNote": null,
+      "invoice": null,
+      "predictedByML": true
+    }
+  ]
+}
