@@ -1,0 +1,6 @@
+user_id,name,email,role,apartment,society_id
+1,Alice Secretary,alice@meadows.test,secretary,,1
+2,Bob Resident,bob@meadows.test,resident,A-101,1
+3,Charlie Resident,charlie@meadows.test,resident,A-204,1
+4,Dinesh Resident,dinesh@meadows.test,resident,B-302,1
+5,Esha Resident,esha@meadows.test,resident,C-402,1

@@ -1,0 +1,6 @@
+vendor_id,name,categories,avg_response_mins,avg_cost,rating,availability
+1,QuickPlumb,"plumbing",120,1500,4.5,true
+2,EasyElectro,"electrical",90,1200,4.2,true
+3,PestAway,"pest",240,2500,4.4,true
+4,CleanIt,"housekeeping,cleaning",180,800,4.0,true
+5,SecurePro,"security",200,2000,4.1,true

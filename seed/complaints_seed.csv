@@ -1,0 +1,14 @@
+id,resident_id,society_id,block,apartment,title,description,category,created_at
+1,2,1,A,101,Kitchen ceiling leak,"Water leaking from kitchen ceiling when I run the tap. Appears to be from pipe.",plumbing,2025-10-25T09:30:00Z
+2,3,1,A,204,Power outage in living room,"Lights flicker and then go out when AC is on. Possibly wiring.",electrical,2025-10-25T10:10:00Z
+3,4,1,B,302,Rodent sighting in pantry,"Saw rat droppings and movement near pantry shelves.",pest,2025-10-26T07:45:00Z
+4,5,1,C,402,Waterlogging near entrance,"Water accumulates near main entrance during rain.",cleaning,2025-10-26T08:00:00Z
+5,2,1,A,101,Blocked drain in bathroom,"Bathroom drain is blocked and water is slowly draining.",plumbing,2025-10-26T09:00:00Z
+6,3,1,B,204,TV socket sparks,"Socket sparks when plugging in TV. Smell of burning.",electrical,2025-10-27T11:20:00Z
+7,4,1,B,302,Roach problem in kitchen,"Many cockroaches in kitchen area a few nights. Need pest control.",pest,2025-10-27T19:30:00Z
+8,5,1,C,402,Entrance light not working,"Entrance light bulb fused; area is dark at night.",electrical,2025-10-28T06:00:00Z
+9,6,1,A,201,Garbage overflow,"Garbage area overflowed; stench spreading near block A entrance.",housekeeping,2025-10-28T08:40:00Z
+10,7,1,B,302,Security gate stuck,"Main gate stuck and is hard to open — possible hinge issue.",security,2025-10-28T09:10:00Z
+11,8,1,C,501,Ceiling damp patch,"Damp patch on living room ceiling after last rain.",plumbing,2025-10-29T10:00:00Z
+12,9,1,A,801,Balcony drain blocked,"Water pooling in balcony after shower — drain blocked.",plumbing,2025-10-29T12:30:00Z
+
